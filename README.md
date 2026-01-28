@@ -1,4 +1,4 @@
-# SAM Robustness under Noisy Medical Imaging Conditions
+# Benchmarking SAM & MedSAM Robustness under Noisy Abdominal CT Conditions
 
 **A Benchmark Study Evaluating Segment Anything Model Performance on Corrupted Abdominal CT Images**
 
