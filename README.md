@@ -193,5 +193,5 @@ The study includes comprehensive visualizations:
 
 ## 📧 Contact
 
-**Author**: Hoang Le Chau
+**Author**: Hoang Le Chau       
 **Email**: hallo.hoanglechau@gmail.com
